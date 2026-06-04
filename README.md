@@ -95,7 +95,7 @@ olist-ecommerce-intelligence/
 │   └── import_ecommerce.py
 │
 ├── dashboard/
-│   └── dashboard_screenshot.png
+│   └── dashboard.png
 │
 └── README.md
 ```
@@ -104,7 +104,7 @@ olist-ecommerce-intelligence/
 
 ## Dashboard Preview
 
-[![Dashboard Preview](dashboard/dashboard_screenshot.png)](https://public.tableau.com/views/e-commerce-dashboard_17806002163060/Dashboard1)
+[![Dashboard Preview](dashboard/dashboard.png)](https://public.tableau.com/views/e-commerce-dashboard_17806002163060/Dashboard1)
 
 ---
 
